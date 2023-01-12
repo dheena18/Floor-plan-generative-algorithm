@@ -1,0 +1,22 @@
+com/martinstacey/ex02/BuildConfig.java
+ com.martinstacey.ex02.BuildConfig
+com/dheena/ex02/mimo_ai.java
+ com.martinstacey.ex02.mimo_ai
+ com.martinstacey.ex02.mimo_ai$Atribute
+ com.martinstacey.ex02.mimo_ai$Border
+ com.martinstacey.ex02.mimo_ai$Click
+ com.martinstacey.ex02.mimo_ai$Drawzones
+ com.martinstacey.ex02.mimo_ai$House
+ com.martinstacey.ex02.mimo_ai$Mueble
+ com.martinstacey.ex02.mimo_ai$Node
+ com.martinstacey.ex02.mimo_ai$Nodegene
+ com.martinstacey.ex02.mimo_ai$Option
+ com.martinstacey.ex02.mimo_ai$Population
+ com.martinstacey.ex02.mimo_ai$Population$Individual
+ com.martinstacey.ex02.mimo_ai$Slider
+ com.martinstacey.ex02.mimo_ai$Text
+ com.martinstacey.ex02.mimo_ai$Textrect
+ com.martinstacey.ex02.mimo_ai$Toggle
+ com.martinstacey.ex02.mimo_ai$Zone
+com/dheena/ex02/MainActivity.java
+ com.martinstacey.ex02.MainActivity
